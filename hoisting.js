@@ -16,7 +16,7 @@ function crazy() {
     console.log("hey!!!")
   }
 }
-crazy()();
+crazy()()
 
 function sayMyName() {
   // fix the code in here:
